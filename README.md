@@ -15,7 +15,7 @@ You can access the interactive report created using Power BI via the following l
 ## Video Presentation
 
 For a detailed overview and explanation of the insights provided in this report, watch our video presentation:
-[Video Presentation](insert_video_presentation_link_here)
+[Video Presentation](https://youtu.be/1p_UUNLwh2Y)
 
 ## Report Details
 
