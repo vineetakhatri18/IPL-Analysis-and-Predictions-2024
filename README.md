@@ -61,7 +61,7 @@ For a detailed overview and explanation of the insights provided in this report,
 ## view linkedin engagement
 
 Let's connect on LinkedIn for more discussions:
-[Connect on LinkedIn](insert_linkedin_profile_link_here)
+[Connect on LinkedIn](https://www.linkedin.com/posts/vineetakhatribia_powerbi-iplanalysis-predictions-activity-7181632018873540608-pW8u?utm_source=share&utm_medium=member_desktop)
 
 ## Get in Touch
 
